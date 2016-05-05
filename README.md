@@ -1,5 +1,5 @@
 # .netBasicUserAuthentication
 
-This project is a basic template for creatin user AUTH functionality in microsoft .net framwork. It allows users to create new user roles and login and contains basic CRUD functionality for users.
+This project is a basic template for creating user AUTH functionality in Microsoft .net framework. It allows users to create new user roles and contains complete CRUD functionality.
 
 lawtonB april 2016
